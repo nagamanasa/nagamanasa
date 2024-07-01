@@ -14,9 +14,9 @@ Data Analysis & Visualization: Excel, Tableau, Power BI, Matplotlib
 
 Where I'm Heading:
 
-🌟 Innovate: Leverage AI and machine learning to develop cutting-edge solutions that solve real-world problems.
-📚 Grow: Continuously learn and adapt to new technologies and methodologies to stay at the forefront of the industry.
-🤝 Contribute: Work with a dynamic team to create impactful software and data-driven solutions that drive business success.
+🌟 Innovate: Leverage AI and machine learning to develop cutting-edge solutions that solve real-world problems.//
+📚 Grow: Continuously learn and adapt to new technologies and methodologies to stay at the forefront of the industry.//
+🤝 Contribute: Work with a dynamic team to create impactful software and data-driven solutions that drive business success.//
 
 Seeking New Opportunities:
 
